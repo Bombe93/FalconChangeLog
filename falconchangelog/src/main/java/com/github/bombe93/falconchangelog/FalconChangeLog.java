@@ -28,7 +28,7 @@ import java.util.Date;
 /**
  * Class to show a change log dialog
  */
-public class Main {
+public class FalconChangeLog {
     private static final String TAG = "ChangeLogDialog";
 
     private final Context mContext;
@@ -40,7 +40,7 @@ public class Main {
 
     protected DialogInterface.OnDismissListener mOnDismissListener;
 
-    public Main(final Context context) {
+    public FalconChangeLog(final Context context) {
         mContext = context;
     }
 
@@ -110,7 +110,7 @@ public class Main {
         mStyle = style;
     }
 
-    public Main setOnDismissListener(final DialogInterface.OnDismissListener onDismissListener) {
+    public FalconChangeLog setOnDismissListener(final DialogInterface.OnDismissListener onDismissListener) {
         mOnDismissListener = onDismissListener;
         return this;
     }
