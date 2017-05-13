@@ -2,11 +2,11 @@ apply plugin: 'com.android.library'
 
 ext {
     bintrayRepo = 'maven'
-    bintrayName = 'FalconChangeLog'
+    bintrayName = 'falconchangelog'
 
-    publishedGroupId = 'com.inthecheesefactory.thecheeselibrary'
-    libraryName = 'FalconChangeLog'
-    artifact = 'FalconChangeLog'
+    publishedGroupId = 'com.github.bombe93'
+    libraryName = 'falconchangelog'
+    artifact = 'falconchangelog'
 
     libraryDescription = 'Android library to show changelog in app'
 
@@ -15,7 +15,7 @@ ext {
     githubRepository = 'Bombe93/FalconChangeLog'
     githubRepo = 'Bombe93/FalconChangeLog'
 
-    libraryVersion = '1.0.0'
+    libraryVersion = '1.0.1'
 
     developerId = 'bombe93'
     developerName = 'Riccardo'

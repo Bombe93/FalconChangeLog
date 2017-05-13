@@ -1,4 +1,4 @@
-package com.github.bombe93.bombe93;
+package com.github.bombe93.falconchangelog;
 
 import org.junit.Test;
 
