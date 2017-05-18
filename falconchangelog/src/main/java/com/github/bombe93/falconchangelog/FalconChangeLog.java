@@ -25,11 +25,9 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * Class to show a change log dialog
- */
+
 public class FalconChangeLog {
-    private static final String TAG = "ChangeLogDialog";
+    private static final String TAG = "FalconChangeLog";
 
     private final Context mContext;
     private String mStyle = "h1 { margin-left: 0px; font-size: 12pt; }"
