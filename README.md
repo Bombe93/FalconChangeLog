@@ -11,7 +11,7 @@ The goal is to improve and add functionality to the project.
 
 Demo app on Google Play: 
 ```groovy
-	To do soon
+	https://play.google.com/store/apps/details?id=falconchangelogdemo.riccardo.com.falconchangelogdemo
 ```
 
 ## How to include it in your project(Gradle):
